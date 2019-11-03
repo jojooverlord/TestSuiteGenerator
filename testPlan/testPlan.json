@@ -1,0 +1,135 @@
+{
+  "Categories": [
+    {
+      "Category": 0,
+      "Count": 4,
+      "TestDetail": [],
+      "Children": [
+        {
+          "Category": 0,
+          "Count": 4,
+          "TestDetail": [true, true, true, true],
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Category": 1,
+      "Count": 20,
+      "TestDetail": [],
+      "Children": [
+        {
+          "Category": 0,
+          "Count": 5,
+          "TestDetail": [false, true, true, true],
+          "Children": []
+        },
+        {
+          "Category": 1,
+          "Count": 5,
+          "TestDetail": [true, false, true, true],
+          "Children": []
+        },
+        {
+          "Category": 2,
+          "Count": 5,
+          "TestDetail": [true, true, false, true],
+          "Children": []
+        },
+        {
+          "Category": 3,
+          "Count": 5,
+          "TestDetail": [true, true, true, false],
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Category": 2,
+      "Count": 33,
+      "TestDetail": [],
+      "Children": [
+        {
+          "Category": 0,
+          "Count": 9,
+          "TestDetail": [false, false, true, true],
+          "Children": []
+        },
+        {
+          "Category": 1,
+          "Count": 8,
+          "TestDetail": [false, true, false, true],
+          "Children": []
+        },
+        {
+          "Category": 2,
+          "Count": 8,
+          "TestDetail": [false, true, true, false],
+          "Children": []
+        },
+        {
+          "Category": 3,
+          "Count": 8,
+          "TestDetail": [true, false, false, true],
+          "Children": []
+        },
+        {
+          "Category": 4,
+          "Count": 8,
+          "TestDetail": [true, false, true, false],
+          "Children": []
+        },
+        {
+          "Category": 5,
+          "Count": 8,
+          "TestDetail": [true, true, false, false],
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Category": 3,
+      "Count": 19,
+      "TestDetail": [],
+      "Children": [
+        {
+          "Category": 0,
+          "Count": 5,
+          "TestDetail": [true, false, false, false],
+          "Children": []
+        },
+        {
+          "Category": 1,
+          "Count": 5,
+          "TestDetail": [false, true, false, false],
+          "Children": []
+        },
+        {
+          "Category": 2,
+          "Count": 5,
+          "TestDetail": [false, false, true, false],
+          "Children": []
+        },
+        {
+          "Category": 3,
+          "Count": 4,
+          "TestDetail": [false, false, false, true],
+          "Children": []
+        }
+      ]
+    },
+    {
+      "Category": 4,
+      "Count": 4,
+      "TestDetail": [],
+      "Children": [
+        {
+          "Category": 0,
+          "Count": 2,
+          "TestDetail": [false, false, false, false],
+          "Children": []
+        }
+      ]
+    }
+  ]
+}
